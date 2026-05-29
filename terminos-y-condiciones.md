@@ -379,15 +379,6 @@ Si la rescisión se produce como consecuencia de un incumplimiento por parte del
 
 ---
 
-## **FIRMAS**
-
-|  | DESARROLLADOR | CLIENTE |
-| ----- | ----- | ----- |
-| **Nombre:** | Bigsaeta — bigsaeta.com  
-Representante: Luis Figuera | [Nombre del Cliente] |
-| **Fecha:** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| **Firma:** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-
 ---
 
 *Documento generado el 29/05/2026. Versión 3.0 — Plantilla General / Multi-Proyecto.*  
