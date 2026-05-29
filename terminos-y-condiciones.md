@@ -8,7 +8,7 @@ El presente documento constituye un **acuerdo legalmente vinculante** entre el D
 
 ## **1\. OBJETO DEL CONTRATO**
 
-El DESARROLLADOR se compromete a diseñar, programar y entregar el sistema objeto del presente acuerdo (en adelante, el "SISTEMA"), de acuerdo con los requerimientos y funcionalidades que el CLIENTE solicite de forma progresiva durante la vigencia del presente acuerdo. La naturaleza, alcance y nombre del SISTEMA serán definidos mediante las solicitudes escritas que el CLIENTE realice, las cuales formarán parte integrante de este contrato. Cada solicitud, módulo o funcionalidad será desarrollada y facturada según la modalidad de pago establecida en la cláusula 2.1.
+El DESARROLLADOR se compromete a diseñar, programar y entregar el sistema objeto del presente acuerdo (en adelante, el "SISTEMA"), de acuerdo con los requerimientos y funcionalidades que el CLIENTE solicite de forma progresiva durante la vigencia del presente acuerdo. La naturaleza, alcance y nombre del SISTEMA serán definidos mediante las solicitudes escritas que el CLIENTE realice, las cuales formarán parte integrante de este contrato. Cada solicitud, módulo o funcionalidad será desarrollada y facturada según la modalidad de pago establecida en la cláusula 12.1.
 
 **El alcance del SISTEMA comprende, de forma enunciativa más no limitativa, los siguientes componentes tecnológicos que serán definidos y detallados durante el desarrollo progresivo:**
 
@@ -22,61 +22,9 @@ Cualquier otro componente o funcionalidad no listada expresamente en este docume
 
 ---
 
-## **2\. MODALIDAD DE TRABAJO Y PAGOS**
+## **2\. NATURALEZA DEL SISTEMA — EL CLIENTE RECONOCE Y ACEPTA QUE:**
 
-### **2.1. Cobro por Módulos o Funcionalidades**
-
-* El desarrollo se factura **por módulo, funcionalidad o entregable acordado**, no por horas trabajadas.  
-* **2.1.1. Presupuesto por Módulo:** Cada módulo, funcionalidad o fase del proyecto tendrá un **precio fijo** previamente acordado por escrito entre las partes. El DESARROLLADOR presentará una cotización cerrada por cada entregable antes de iniciar su desarrollo.  
-* Los precios de los módulos subsiguientes podrán ser ajustados por el DESARROLLADOR en función de la complejidad o los cambios en los requerimientos, siempre con notificación previa al CLIENTE. El factor de ajuste por tiempo transcurrido solo aplicará si han pasado más de **90 días consecutivos** desde la presentación del presupuesto anterior, y en ningún caso el incremento podrá exceder el **20% del precio original** de dicho módulo.  
-* Si el CLIENTE ha realizado un adelanto, este se descontará del primer módulo o entregable facturado, según lo acordado por escrito entre las partes.  
-* El CLIENTE dispondrá de **5 días hábiles** tras la recepción de un presupuesto de módulo para revisarlo, plantear dudas o negociar ajustes. El presupuesto solo se considerará **aceptado y vinculante** cuando el CLIENTE manifieste su aprobación de forma expresa y por escrito (email, mensaje de texto o herramienta acordada). En caso de no haber respuesta dentro de los 5 días hábiles, el presupuesto se considerará **no aceptado** y el DESARROLLADOR podrá dejar en espera el desarrollo de ese módulo hasta obtener una respuesta, sin que ello genere penalidad para ninguna de las partes.  
-* Si el CLIENTE no paga una factura en un plazo de **7 días**, el proyecto se detiene sin obligación de entregar avances hasta recibir el pago.  
-* Si el proyecto permanece detenido por falta de pago durante más de **15 días**, se aplicará una **tarifa de reactivación** equivalente al **10% del valor del último módulo facturado, con un mínimo de $50 USD**, para retomar y repriorizar el proyecto en la agenda del DESARROLLADOR.  
-* Los montos se fijan en **USD** como unidad de cuenta. En caso de pagos en **Bolívares (Bs.)**, se utilizará la tasa de cambio publicada por el **Banco Central de Venezuela (BCV) del día en que se realice el pago**, no la del día de emisión de la factura. **Cualquier comisión bancaria, de plataforma de intercambio o retenciones de ley será asumida íntegramente por el CLIENTE**, garantizando que el DESARROLLADOR reciba el monto neto exacto del precio acordado.
-* **Intereses por Mora:** Toda factura no pagada dentro del plazo de 7 días establecido generará intereses moratorios calculados a la tasa del **2% mensual (24% anual)** sobre el saldo adeudado, calculados día a día desde la fecha de vencimiento hasta la fecha de pago efectivo, sin necesidad de constitución en mora ni notificación adicional.
-* **Gastos de Cobranza:** En caso de mora, el CLIENTE se obliga al pago de una penalidad equivalente al **25% (veinticinco por ciento)** del monto total adeudado en concepto de gastos de cobranza extrajudicial, independientemente de los intereses moratorios establecidos en este contrato. Esta penalidad constituye una cláusula penal liquidatoria anticipada de los daños y perjuicios causados por el retardo, aceptada expresamente por el CLIENTE, y será exigible aún en caso de pago voluntario posterior a la mora. No obstante, el monto total combinado adeudado por concepto de intereses moratorios (2% mensual) más la penalidad del 25% aquí descrita no podrá exceder, en conjunto, el **3.5% mensual** calculado sobre el capital adeudado durante el período de mora, a fin de evitar una capitalización excesiva de la deuda.
-* **Excepción — Trabajos No Presupuestables:** El DESARROLLADOR podrá, a su exclusiva discreción, facturar por hora aquellos trabajos de diagnóstico, consultoría, mantenimiento correctivo urgente o cambios menores que, por su naturaleza impredecible, no puedan ser presupuestados como módulo cerrado. En tal caso, la tarifa horaria será notificada al CLIENTE previamente.
-
-### **2.2. Alcance Progresivo y No Exclusividad**
-
-* Las funcionalidades se desarrollan de forma **incremental** y se entregan por fases o módulos.  
-* Cualquier funcionalidad, módulo o componente **no acordado previamente** se considera trabajo adicional y se facturará como un nuevo módulo o, en su defecto, por hora según la cláusula 2.1.  
-* El DESARROLLADOR no iniciará el desarrollo de un módulo sin haber presentado el presupuesto correspondiente y haber obtenido aprobación por escrito del CLIENTE.  
-* El DESARROLLADOR se reserva el derecho de **rechazar nuevas solicitudes** de funcionalidades si estas exceden su capacidad técnica o disponibilidad de tiempo, previo aviso al CLIENTE.
-* **No Exclusividad:** El presente contrato no otorga al CLIENTE derechos de exclusividad sobre los servicios del DESARROLLADOR. El DESARROLLADOR se reserva el derecho expreso e irrevocable de prestar servicios de desarrollo, consultoría o asesoría a cualquier otro cliente, persona natural o jurídica, incluso si dicho cliente opera en el mismo rubro, mercado o industria que el CLIENTE, sin que ello constituya competencia desleal, conflicto de intereses ni violación de confidencialidad alguna.
-
-### **2.3. Criterios de Aceptación de Entregas**
-
-* Cada funcionalidad se considera **entregada** cuando el DESARROLLADOR notifica su disponibilidad en el entorno de pruebas habilitado en el servidor de desarrollo (accesible vía URL) o mediante una sesión de videollamada (Google Meet) donde se comparta pantalla para mostrar los avances; esta última modalidad es la preferida para agilizar la validación y optimizar costos.  
-* El entorno de pruebas es de uso exclusivo para validación y no para producción.
-* El CLIENTE tiene **5 días hábiles** para probarla y reportar incidencias.  
-* Si no responde en ese plazo, la funcionalidad se da por **aceptada**.  
-* Si el CLIENTE solicita cambios después de aceptada, se considera trabajo nuevo y se factura como módulo adicional o, en su defecto, por hora.  
-* Si la falta de respuesta del CLIENTE impide avanzar durante más de **15 días**, el DESARROLLADOR puede suspender el proyecto sin responsabilidad.  
-* Si el proyecto permanece suspendido por más de **30 días** por falta de respuesta o pago, el DESARROLLADOR se reserva el derecho de **ajustar las tarifas** y reprogramar su disponibilidad.
-
-### **2.4. Registro de Solicitudes**
-
-* Toda solicitud de funcionalidad, cambio o corrección deberá realizarse **por escrito** (email, mensaje de texto o herramienta acordada).  
-* Dicho registro constituye la **única prueba válida** del alcance acordado.  
-* Conversaciones verbales, de voz o videollamada **no generan obligación** hasta ser confirmadas por escrito.
-
-### **2.5. Entorno de Desarrollo vs. Entorno de Producción**
-
-**2.5.1. Entorno de Desarrollo y Pruebas:** Durante la fase de desarrollo, el SISTEMA será alojado exclusivamente en servidores propiedad y controlados por el DESARROLLADOR. Este entorno es de uso exclusivo para pruebas, validaciones y demostraciones de avance, y no debe ser utilizado para operaciones comerciales reales con usuarios finales.
-
-**2.5.2. Entorno de Producción:** Se define como "Entorno de Producción" aquel donde el SISTEMA opera con usuarios reales y transacciones económicas reales. La activación del Entorno de Producción constituye una fase separada del proyecto, sujeta a condiciones específicas:
-
-* **Autorización Previa:** El DESARROLLADOR no activará el Entorno de Producción hasta que el CLIENTE haya confirmado por escrito (según cláusula 2.4) que cuenta con todos los permisos, licencias y autorizaciones legales necesarias para operar el negocio en su jurisdicción, eximiendo expresamente al DESARROLLADOR de cualquier responsabilidad derivada de la operación.
-**Infraestructura de Producción:** Salvo acuerdo escrito en contrario, el cual requerirá pago anticipado mínimo de 3 meses de hosting, firma de un anexo de asunción de riesgos, y demostración de licencias vigentes, el Entorno de Producción deberá alojarse en infraestructura (servidor, VPS, hosting o nube) contratada a nombre del CLIENTE o de la empresa del CLIENTE. El DESARROLLADOR podrá ofrecer servicios de configuración, migración y administración de dicha infraestructura, los cuales serán facturados por separado según la tarifa vigente.
-* **Responsabilidad Operativa:** Una vez activado el Entorno de Producción, toda responsabilidad sobre la operación del negocio, incluyendo pero no limitado a aspectos legales, fiscales, laborales y de atención al usuario, recae exclusivamente sobre el CLIENTE.
-
----
-
-## **3\. NATURALEZA DEL SISTEMA — EL CLIENTE RECONOCE Y ACEPTA QUE:**
-
-### **3.1. Ningún sistema es perfecto**
+### **2.1. Ningún sistema es perfecto**
 
 El SISTEMA, al igual que **cualquier otro sistema informático**, puede presentar:
 
@@ -87,7 +35,7 @@ El SISTEMA, al igual que **cualquier otro sistema informático**, puede presenta
 
 El rendimiento óptimo del sistema está sujeto a que el hardware del servidor sea escalado según el número de usuarios concurrentes. El DESARROLLADOR **no garantiza fluidez ni estabilidad** si el tráfico excede las capacidades del servidor contratado por el CLIENTE.
 
-### **3.2. El sistema requiere mantenimiento continuo**
+### **2.2. El sistema requiere mantenimiento continuo**
 
 A diferencia de un producto físico, el software en general:
 
@@ -96,7 +44,7 @@ A diferencia de un producto físico, el software en general:
 * **Se degrada con el tiempo** si no recibe actualizaciones de seguridad  
 * **Opera en un ecosistema cambiante** donde las tecnologías evolucionan
 
-### **3.3. Factores fuera del control del DESARROLLADOR**
+### **2.3. Factores fuera del control del DESARROLLADOR**
 
 El DESARROLLADOR **no es responsable** de fallos causados por:
 
@@ -110,17 +58,17 @@ El DESARROLLADOR **no es responsable** de fallos causados por:
 
 ---
 
-## **4\. GARANTÍA LIMITADA**
+## **3\. GARANTÍA LIMITADA**
 
 * **Período:** Siete (7) días naturales desde cada entrega parcial.  
 * **Cubre:** Corrección de bugs **reportados dentro del plazo de 7 días**, independientemente de la fecha en que se realice la corrección.  
-* La garantía cubre la corrección de bugs reportados en el período, con un límite de **hasta 3 horas de trabajo de corrección por cada $100 USD del valor del módulo o entregable**. Si la complejidad de la incidencia o el volumen de errores reportados excede este límite, el excedente se considerará trabajo adicional y se facturará según la tarifa vigente. Errores estéticos o cambios de lógica post-aceptación (Sección 2.3) siempre se tratarán como trabajo adicional facturable.
+* La garantía cubre la corrección de bugs reportados en el período, con un límite de **hasta 3 horas de trabajo de corrección por cada $100 USD del valor del módulo o entregable**. Si la complejidad de la incidencia o el volumen de errores reportados excede este límite, el excedente se considerará trabajo adicional y se facturará según la tarifa vigente. Errores estéticos o cambios de lógica post-aceptación (Sección 12.3) siempre se tratarán como trabajo adicional facturable.
 * **NO cubre:** Fallos por modificaciones de terceros, problemas del servidor, cambios en servicios externos, funcionalidades nuevas, ni degradación por falta de mantenimiento.  
 * Después de la garantía, cualquier corrección se factura como horas adicionales.
 
 ---
 
-## **5\. MANTENIMIENTO Y SOPORTE — NO INCLUIDO**
+## **4\. MANTENIMIENTO Y SOPORTE — NO INCLUIDO**
 
 **El desarrollo del SISTEMA NO incluye mantenimiento ni soporte técnico posterior.** Estos son servicios separados.
 
@@ -139,9 +87,9 @@ El mantenimiento (preventivo, correctivo y evolutivo) se ofrece como servicio **
 **El DESARROLLADOR no asume responsabilidad por fallos, pérdidas de datos, brechas de seguridad o cualquier perjuicio que ocurra después de la garantía si no existe un contrato de mantenimiento activo.**  
 ---
 
-## **6\. INFRAESTRUCTURA Y SERVIDOR**
+## **5\. INFRAESTRUCTURA Y SERVIDOR**
 
-### **6.1. Servidor proporcionado por el DESARROLLADOR**
+### **5.1. Servidor proporcionado por el DESARROLLADOR**
 
 El servidor (VPS, hosting o nube) utilizado para el desarrollo y despliegue del SISTEMA es **propiedad exclusiva del DESARROLLADOR** o del proveedor de infraestructura contratado. El CLIENTE reconoce y acepta que:
 
@@ -152,7 +100,7 @@ El servidor (VPS, hosting o nube) utilizado para el desarrollo y despliegue del 
 * El incumplimiento en el pago del servidor faculta al DESARROLLADOR a **suspender el servicio** y, tras 30 días sin respuesta, **eliminar la infraestructura** sin responsabilidad por pérdida de datos.  
 * La exportación de la base de datos (backup) tras una suspensión es un servicio adicional facturable.
 
-### **6.2. Migración a servidor del CLIENTE**
+### **5.2. Migración a servidor del CLIENTE**
 
 * El CLIENTE tiene derecho a migrar el SISTEMA a un servidor de su elección en cualquier momento.  
 * Las tareas de migración se facturarán de forma independiente como servicios adicionales.  
@@ -161,19 +109,19 @@ El servidor (VPS, hosting o nube) utilizado para el desarrollo y despliegue del 
 
 ---
 
-## **7\. PROPIEDAD INTELECTUAL**
+## **6\. PROPIEDAD INTELECTUAL**
 
-### **7.1. Transferencia de Propiedad Intelectual**
+### **6.1. Transferencia de Propiedad Intelectual**
 
-**7.1.1. Obra por Encargo:** El presente contrato se considera de "obra por encargo" bajo los términos de la Ley de Derecho de Autor. Por lo tanto, una vez que el CLIENTE haya efectuado el pago total e irrevocable del 100% de todas las horas trabajadas y facturadas durante la totalidad del proyecto, la propiedad intelectual plena del código fuente personalizado, la base de datos y la configuración específica desarrollada para el PROYECTO será transferida al CLIENTE, quien podrá disponer de ella como mejor convenga a su negocio, bajo las limitaciones establecidas en la cláusula 7.2 (Código Base del DESARROLLADOR).
+**6.1.1. Obra por Encargo:** El presente contrato se considera de "obra por encargo" bajo los términos de la Ley de Derecho de Autor. Por lo tanto, una vez que el CLIENTE haya efectuado el pago total e irrevocable del 100% de todas las horas trabajadas y facturadas durante la totalidad del proyecto, la propiedad intelectual plena del código fuente personalizado, la base de datos y la configuración específica desarrollada para el PROYECTO será transferida al CLIENTE, quien podrá disponer de ella como mejor convenga a su negocio, bajo las limitaciones establecidas en la cláusula 6.2 (Código Base del DESARROLLADOR).
 
-**7.1.2. No Entrega Parcial:** En ningún caso se realizarán entregas parciales del código fuente, la base de datos en formato SQL, ni se concederán accesos de administración al servidor que permitan su descarga, hasta que se cumpla la condición de pago total establecida en el punto anterior. Las demostraciones de avance se realizarán exclusivamente en el entorno de pruebas administrado por el DESARROLLADOR, sin que ello implique transferencia de propiedad alguna.
+**6.1.2. No Entrega Parcial:** En ningún caso se realizarán entregas parciales del código fuente, la base de datos en formato SQL, ni se concederán accesos de administración al servidor que permitan su descarga, hasta que se cumpla la condición de pago total establecida en el punto anterior. Las demostraciones de avance se realizarán exclusivamente en el entorno de pruebas administrado por el DESARROLLADOR, sin que ello implique transferencia de propiedad alguna.
 
-**7.1.3. Entrega Post-Pago:** Una vez verificado el pago completo y definitivo de la totalidad de las obligaciones pendientes, el DESARROLLADOR hará entrega al CLIENTE de una copia completa del código fuente (incluyendo la base de datos) mediante un archivo comprimido (.zip). A partir de ese momento, el CLIENTE asume la propiedad y el control exclusivo del código personalizado, con la única excepción del Código Base del DESARROLLADOR descrito en la cláusula 7.2.
+**6.1.3. Entrega Post-Pago:** Una vez verificado el pago completo y definitivo de la totalidad de las obligaciones pendientes, el DESARROLLADOR hará entrega al CLIENTE de una copia completa del código fuente (incluyendo la base de datos) mediante un archivo comprimido (.zip). A partir de ese momento, el CLIENTE asume la propiedad y el control exclusivo del código personalizado, con la única excepción del Código Base del DESARROLLADOR descrito en la cláusula 6.2.
 
-**7.1.4. Consecuencia del Impago:** En caso de mora superior a 15 días en el pago de cualquier factura, el DESARROLLADOR queda facultado para inhabilitar técnicamente el acceso al SISTEMA (entorno de pruebas o producción) y no estará obligado a entregar el código fuente hasta la completa resolución de la deuda, pudiendo además ejercer las acciones legales que correspondan por incumplimiento contractual.
+**6.1.4. Consecuencia del Impago:** En caso de mora superior a 15 días en el pago de cualquier factura, el DESARROLLADOR queda facultado para inhabilitar técnicamente el acceso al SISTEMA (entorno de pruebas o producción) y no estará obligado a entregar el código fuente hasta la completa resolución de la deuda, pudiendo además ejercer las acciones legales que correspondan por incumplimiento contractual.
 
-### **7.2. Código Base del DESARROLLADOR**
+### **6.2. Código Base del DESARROLLADOR**
 
 **El CLIENTE reconoce expresamente que:**
 
@@ -183,19 +131,28 @@ El servidor (VPS, hosting o nube) utilizado para el desarrollo y despliegue del 
 * El DESARROLLADOR se reserva el derecho de reutilizar patrones, métodos, componentes y conocimientos genéricos en cualquier otro proyecto.  
 * **Limitación de reutilización:** No obstante lo anterior, el DESARROLLADOR se obliga a **no reutilizar la lógica de negocio específica del CLIENTE** — entendida como reglas de negocio, modelos de datos propietarios, flujos de trabajo personalizados y algoritmos comerciales únicos desarrollados exclusivamente para el CLIENTE — en sistemas destinados a competidores directos del CLIENTE en el mismo mercado geográfico, durante un período de **2 años** contados desde la entrega final del código correspondiente. Esta limitación no aplica al código base, patrones arquitectónicos, librerías genéricas, utilidades, componentes de infraestructura, ni a desarrollos realizados para proyectos propios del DESARROLLADOR.
 
-### **7.3. Dependencias de Terceros e Inteligencia Artificial**
+### **6.3. Dependencias de Terceros e Inteligencia Artificial**
 
-Los frameworks, librerías y herramientas de código abierto utilizados permanecen bajo sus respectivas licencias originales. El CLIENTE reconoce y acepta que el DESARROLLADOR podrá utilizar herramientas de **inteligencia artificial** como asistencia en el proceso de desarrollo, sin que ello afecte los derechos de propiedad intelectual aquí establecidos. El CLIENTE acepta que el código generado o asistido por IA no conlleva garantía adicional alguna más allá de lo establecido en la cláusula 4 de este contrato, y que las licencias del código generado por dichos proveedores se rigen por los términos de servicio de cada plataforma de IA. El CLIENTE exonera expresamente al DESARROLLADOR de cualquier responsabilidad derivada del uso de herramientas de IA, incluyendo pero no limitado a reclamaciones por derechos de autor, originalidad, licencias de código generado o cumplimiento regulatorio.
+Los frameworks, librerías y herramientas de código abierto utilizados permanecen bajo sus respectivas licencias originales. El CLIENTE reconoce y acepta que el DESARROLLADOR podrá utilizar herramientas de **inteligencia artificial** como asistencia en el proceso de desarrollo, sin que ello afecte los derechos de propiedad intelectual aquí establecidos. El CLIENTE acepta que el código generado o asistido por IA no conlleva garantía adicional alguna más allá de lo establecido en la cláusula 3 de este contrato, y que las licencias del código generado por dichos proveedores se rigen por los términos de servicio de cada plataforma de IA. El CLIENTE exonera expresamente al DESARROLLADOR de cualquier responsabilidad derivada del uso de herramientas de IA, incluyendo pero no limitado a reclamaciones por derechos de autor, originalidad, licencias de código generado o cumplimiento regulatorio.
 
-### **7.4. Mecanismo de Retención Técnica**
+### **6.4. Mecanismo de Retención Técnica**
 
 El CLIENTE reconoce y acepta que el SISTEMA ha sido diseñado con mecanismos técnicos que permiten al DESARROLLADOR mantener el control sobre el entorno de ejecución y el código fuente hasta el momento del pago total. Estos mecanismos se refieren exclusivamente a la gestión de accesos, credenciales y alojamiento en infraestructura propiedad del DESARROLLADOR, y no implican la instalación de código malicioso o backdoors en el SISTEMA. Dichos mecanismos no afectan la funcionalidad del mismo para pruebas, y su único propósito es garantizar el cumplimiento de las obligaciones de pago por parte del CLIENTE.
 
+### **6.5. Recursos de Terceros y Licencias Comerciales**
+
+El DESARROLLADOR podrá utilizar en el SISTEMA recursos, componentes, librerías, plugins, fuentes, iconos, imágenes, ilustraciones, plantillas o cualquier otro activo digital propiedad de terceros que requieran licencia comercial o pago por su uso (en adelante, "Recursos de Terceros"). En tal caso:
+
+* El DESARROLLADOR informará al CLIENTE sobre la necesidad de adquirir la licencia correspondiente, su costo y los términos de uso aplicables, antes de incorporar dichos Recursos de Terceros al SISTEMA.
+* El CLIENTE autoriza la compra de dichas licencias a su costo, o podrá solicitar al DESARROLLADOR una alternativa gratuita o de código abierto. Si el CLIENTE opta por la alternativa gratuita, el DESARROLLADOR no se responsabiliza por limitaciones funcionales, estéticas o de rendimiento derivadas de dicha elección.
+* El CLIENTE se obliga a cumplir con los términos de licencia de cada Recurso de Terceros incorporado al SISTEMA, y exonera al DESARROLLADOR de cualquier reclamación por incumplimiento de dichos términos que sea atribuible a acciones u omisiones del CLIENTE después de la entrega del SISTEMA.
+* Los Recursos de Terceros adquiridos expresamente para el proyecto del CLIENTE serán entregados a este junto con el código fuente, sujetos a sus respectivas licencias. El DESARROLLADOR no transfiere ni cede derechos de propiedad intelectual sobre dichos Recursos de Terceros, los cuales permanecen bajo la titularidad de sus respectivos autores o licenciantes.
+
 ---
 
-## **8\. RESPONSABILIDADES DEL CLIENTE**
+## **7\. RESPONSABILIDADES DEL CLIENTE**
 
-### **8.1. Responsabilidades Generales**
+### **7.1. Responsabilidades Generales**
 
 El CLIENTE se compromete a:
 
@@ -209,27 +166,27 @@ El CLIENTE se compromete a:
 * **Realizar backups periódicos** de la base de datos y archivos en servidores que administre directamente. En servidores gestionados por el DESARROLLADOR (donde el CLIENTE no tiene acceso), el DESARROLLADOR programará **backups automáticos** (diarios/semanales). Como medida de redundancia, el DESARROLLADOR enviará al CLIENTE una **copia cifrada de la base de datos cada 15 días** a un medio de almacenamiento externo designado por el CLIENTE (correo electrónico, almacenamiento en la nube, etc.), sin costo adicional para el CLIENTE. En caso de un fallo catastrófico del proveedor que resulte en la pérdida total de datos, el DESARROLLADOR no se hace responsable, pero ofrecerá sus servicios para intentar una recuperación sobre la base de la última copia disponible, la cual será facturable por horas.  
 * Garantizar que **posee todos los derechos** sobre los materiales suministrados (logos, textos, imágenes), eximiendo al DESARROLLADOR de cualquier reclamo por infracción de derechos de autor de terceros.
 
-### **8.2. Responsabilidades Legales y Financieras**
+### **7.2. Responsabilidades Legales y Financieras**
 
-**8.2.1. Obligaciones Legales y Fiscales del CLIENTE:** El CLIENTE declara y garantiza que:
+**7.2.1. Obligaciones Legales y Fiscales del CLIENTE:** El CLIENTE declara y garantiza que:
 * Es el único responsable de obtener y mantener vigentes todas las licencias, permisos, registros y autorizaciones requeridas por las leyes nacionales, estaduales, municipales o internacionales aplicables para la operación del negocio para el cual se utilizará el SISTEMA, incluyendo de manera enunciativa pero no limitativa: leyes sectoriales, tributarias, de protección al consumidor, de prevención de lavado de activos y financiamiento al terrorismo, incluyendo el registro como Sujeto Obligado ante la unidad competente si fuera aplicable, y leyes de protección de datos personales.
 * Es el único responsable del correcto registro, declaración y pago de todos los impuestos, tasas y contribuciones que se deriven de la operación del negocio, incluyendo el Impuesto a las Grandes Transacciones Financieras (IGTF), Impuesto al Valor Agregado (IVA), Impuesto Sobre la Renta (ISLR), y cualquier otro tributo aplicable en Venezuela o en las jurisdicciones donde opere.
 * Mantendrá al DESARROLLADOR indemne frente a cualquier requerimiento, sanción, multa, procedimiento administrativo, investigación fiscal o acción judicial que se derive del incumplimiento de las obligaciones descritas en esta cláusula.
 * A solicitud del DESARROLLADOR, y previo a la activación del Entorno de Producción, el CLIENTE se compromete a proporcionar evidencia razonable del cumplimiento de sus obligaciones legales y fiscales, sin que ello constituya una obligación del DESARROLLADOR de verificar dicha documentación.
 
-**8.2.2. Responsabilidad sobre Transacciones Financieras:** El CLIENTE reconoce y acepta que el SISTEMA es una herramienta de registro y gestión, y que toda transacción financiera (pagos de usuarios, retiros, comisiones, etc.) ocurre fuera del control del DESARROLLADOR. El CLIENTE es el único responsable de:
+**7.2.2. Responsabilidad sobre Transacciones Financieras:** El CLIENTE reconoce y acepta que el SISTEMA es una herramienta de registro y gestión, y que toda transacción financiera (pagos de usuarios, retiros, comisiones, etc.) ocurre fuera del control del DESARROLLADOR. El CLIENTE es el único responsable de:
 * La verificación de la disponibilidad de fondos en sus cuentas bancarias o billeteras electrónicas antes de acreditar créditos a los usuarios.
 * El cumplimiento de las normas cambiarias venezolanas (BCV, IGTF) aplicables a las transacciones en divisas o criptomonedas.
 * El registro contable y fiscal de todas las transacciones.
 * La resolución de disputas con usuarios relacionadas con pagos, retiros, cargos duplicados, fraudes o estafas.
 * La implementación de políticas de uso responsable, códigos de conducta y cualquier otra regulación sectorial que fuera aplicable a su actividad comercial en su jurisdicción.
 
-**8.2.3. Derecho de Auditoría del DESARROLLADOR:** El DESARROLLADOR se reserva el derecho, en caso de tener indicios razonables de que el SISTEMA está siendo utilizado para actividades ilícitas o que puedan generar responsabilidad legal para el DESARROLLADOR, a:
+**7.2.3. Derecho de Auditoría del DESARROLLADOR:** El DESARROLLADOR se reserva el derecho, en caso de tener indicios razonables de que el SISTEMA está siendo utilizado para actividades ilícitas o que puedan generar responsabilidad legal para el DESARROLLADOR, a:
 * Solicitar al CLIENTE documentación que acredite el cumplimiento de sus obligaciones legales y fiscales.
 * Suspender preventivamente el acceso al SISTEMA o al Entorno de Producción mediante notificación escrita (email o WhatsApp según cláusula 18) mientras se aclara la situación, sin que ello genere responsabilidad para el DESARROLLADOR.
 * Dar por terminado el contrato de forma inmediata si se confirma la realización de actividades ilícitas, sin obligación de entregar código fuente ni reembolsar cantidad alguna.
 
-### **8.3. Registro del Sistema ante Autoridades Reguladoras**
+### **7.3. Registro del Sistema ante Autoridades Reguladoras**
 
 El CLIENTE reconoce que para la operación legal del SISTEMA en determinadas jurisdicciones puede ser necesario registrar el código fuente, manuales descriptivos y otra información técnica ante las autoridades competentes (entes reguladores, ministerios, superintendencias, etc.).
 
@@ -245,7 +202,7 @@ El DESARROLLADOR, a solicitud del CLIENTE y por un costo adicional facturable po
 
 ---
 
-## **9\. LIMITACIÓN DE RESPONSABILIDAD**
+## **8\. LIMITACIÓN DE RESPONSABILIDAD**
 
 **En ningún caso** el DESARROLLADOR será responsable por daños indirectos, incidentales, especiales, consecuenciales o punitivos, incluyendo pero no limitado a:
 
@@ -266,7 +223,7 @@ El SISTEMA es una **herramienta de registro y gestión**; la validación final d
 
 ---
 
-## **10\. MODIFICACIONES POST-ENTREGA**
+## **9\. MODIFICACIONES POST-ENTREGA**
 
 * Si el CLIENTE o un tercero modifica el código, la **garantía queda anulada automáticamente**.  
 * Cualquier cambio posterior se solicita por escrito, se evalúa y se cobra por horas.  
@@ -274,7 +231,7 @@ El SISTEMA es una **herramienta de registro y gestión**; la validación final d
 
 ---
 
-## **11\. SERVICIOS DE TERCEROS**
+## **10\. SERVICIOS DE TERCEROS**
 
 El SISTEMA depende o podría depender de servicios externos (proveedores de infraestructura cloud, APIs de terceros, pasarelas de pago, servicios de mensajería, autenticación, etc.) que **no son controlados por el DESARROLLADOR**. Si alguno de estos servicios modifica su funcionamiento, cambia precios, suspende su operación o deja de estar disponible, la adaptación del SISTEMA a dichos cambios se considera trabajo adicional y será facturada según la tarifa vigente.
 
@@ -282,7 +239,7 @@ La gestión de la **reputación**, credenciales, cuentas y saldos ante proveedor
 
 ---
 
-## **12\. DECLARACIÓN DE LEGALIDAD, CUMPLIMIENTO NORMATIVO E INDEMNIDAD**
+## **11\. DECLARACIÓN DE LEGALIDAD, CUMPLIMIENTO NORMATIVO E INDEMNIDAD**
 
 El CLIENTE declara bajo fe de juramento que es el único responsable de obtener todas las licencias, permisos y autorizaciones legales necesarias para la operación del SISTEMA en las jurisdicciones donde pretenda utilizarlo, así como del cumplimiento de todas las obligaciones fiscales, tributarias, laborales y comerciales derivadas de dicha operación.
 
@@ -290,7 +247,7 @@ El CLIENTE reconoce expresamente que la actividad comercial para la cual utiliza
 
 El DESARROLLADOR actúa exclusivamente como un proveedor de servicios tecnológicos y no tiene participación, responsabilidad, control ni beneficio sobre la actividad comercial, las transacciones económicas, los usuarios finales, las políticas de privacidad, los términos de uso, ni el modelo de negocio del CLIENTE. El SISTEMA es una herramienta neutral, y su uso para actividades lícitas o ilícitas es responsabilidad exclusiva del CLIENTE.
 
-La relación entre las partes es estrictamente civil/mercantil de prestación de servicios profesionales independientes. No existe sociedad, asociación, empresa conjunta (joint venture), relación laboral, subordinación, dependencia ni representación alguna entre el DESARROLLADOR y el negocio del CLIENTE. El CLIENTE no puede exigir horarios, metodologías específicas, dedicación exclusiva ni rendición de cuentas más allá de los reportes de horas establecidos en la cláusula 2.1.
+La relación entre las partes es estrictamente civil/mercantil de prestación de servicios profesionales independientes. No existe sociedad, asociación, empresa conjunta (joint venture), relación laboral, subordinación, dependencia ni representación alguna entre el DESARROLLADOR y el negocio del CLIENTE. El CLIENTE no puede exigir horarios, metodologías específicas, dedicación exclusiva ni rendición de cuentas más allá de los reportes de horas establecidos en la cláusula 12.1.
 
 **Indemnidad Ampliada:** El CLIENTE se compromete a mantener al DESARROLLADOR, sus empleados, colaboradores y subcontratistas, totalmente indemnes frente a cualquier reclamo, demanda, pérdida, daño, multa, sanción, costo o gasto (incluyendo honorarios razonables de abogados y costos de defensa en procesos penales, administrativos o civiles) que surja de o esté relacionado con:
 
@@ -302,11 +259,69 @@ La relación entre las partes es estrictamente civil/mercantil de prestación de
 
 ---
 
-## **13\. ACEPTACIÓN POR PAGO**
+## **12\. MODALIDAD DE TRABAJO Y PAGOS**
 
-La realización de un pago por parte del CLIENTE, correspondiente a una factura de horas trabajadas o un hito de entrega, constituye la **aceptación expresa, definitiva e irrevocable** del trabajo realizado hasta esa fecha, salvo lo dispuesto en el párrafo siguiente. El CLIENTE renuncia a cualquier reclamo posterior sobre la funcionalidad, diseño o lógica del código entregado y pagado. **No se realizarán devoluciones de dinero** bajo ninguna circunstancia una vez ejecutadas las horas de desarrollo.
+### **12.1. Cobro por Módulos o Funcionalidades**
 
-**Excepción:** La aceptación por pago no afecta el derecho del CLIENTE a reclamar por **vicios o defectos ocultos** del SISTEMA que no hayan sido ni pudieran haber sido detectados mediante pruebas razonables al momento de la aceptación, siempre que dichos vicios sean reportados dentro del plazo de prescripción establecido en la cláusula 9 del presente contrato. En caso de que se demuestre la existencia de un vicio oculto que impida el funcionamiento esencial del módulo entregado, el DESARROLLADOR lo corregirá sin costo adicional o, si la corrección no fuere técnica o económicamente viable, procederá a la devolución proporcional del monto pagado por dicho módulo.
+* El desarrollo se factura **por módulo, funcionalidad o entregable acordado**, no por horas trabajadas.  
+* **12.1.1. Presupuesto por Módulo:** Cada módulo, funcionalidad o fase del proyecto tendrá un **precio fijo** previamente acordado por escrito entre las partes. El DESARROLLADOR presentará una cotización cerrada por cada entregable antes de iniciar su desarrollo.  
+* Los precios de los módulos subsiguientes podrán ser ajustados por el DESARROLLADOR en función de la complejidad o los cambios en los requerimientos, siempre con notificación previa al CLIENTE. El factor de ajuste por tiempo transcurrido solo aplicará si han pasado más de **90 días consecutivos** desde la presentación del presupuesto anterior, y en ningún caso el incremento podrá exceder el **20% del precio original** de dicho módulo.  
+* Si el CLIENTE ha realizado un adelanto, este se descontará del primer módulo o entregable facturado, según lo acordado por escrito entre las partes.  
+* El CLIENTE dispondrá de **5 días hábiles** tras la recepción de un presupuesto de módulo para revisarlo, plantear dudas o negociar ajustes. El presupuesto solo se considerará **aceptado y vinculante** cuando el CLIENTE manifieste su aprobación de forma expresa y por escrito (email, mensaje de texto o herramienta acordada). En caso de no haber respuesta dentro de los 5 días hábiles, el presupuesto se considerará **no aceptado** y el DESARROLLADOR podrá dejar en espera el desarrollo de ese módulo hasta obtener una respuesta, sin que ello genere penalidad para ninguna de las partes.  
+* Si el CLIENTE no paga una factura en un plazo de **7 días**, el proyecto se detiene sin obligación de entregar avances hasta recibir el pago.  
+* Si el proyecto permanece detenido por falta de pago durante más de **15 días**, se aplicará una **tarifa de reactivación** equivalente al **10% del valor del último módulo facturado, con un mínimo de $50 USD**, para retomar y repriorizar el proyecto en la agenda del DESARROLLADOR.  
+* Los montos se fijan en **USD** como unidad de cuenta. En caso de pagos en **Bolívares (Bs.)**, se utilizará la tasa de cambio publicada por el **Banco Central de Venezuela (BCV) del día en que se realice el pago**, no la del día de emisión de la factura. **Cualquier comisión bancaria, de plataforma de intercambio o retenciones de ley será asumida íntegramente por el CLIENTE**, garantizando que el DESARROLLADOR reciba el monto neto exacto del precio acordado.
+* **Intereses por Mora:** Toda factura no pagada dentro del plazo de 7 días establecido generará intereses moratorios calculados a la tasa del **2% mensual (24% anual)** sobre el saldo adeudado, calculados día a día desde la fecha de vencimiento hasta la fecha de pago efectivo, sin necesidad de constitución en mora ni notificación adicional.
+* **Gastos de Cobranza:** En caso de mora, el CLIENTE se obliga al pago de una penalidad equivalente al **25% (veinticinco por ciento)** del monto total adeudado en concepto de gastos de cobranza extrajudicial, independientemente de los intereses moratorios establecidos en este contrato. Esta penalidad constituye una cláusula penal liquidatoria anticipada de los daños y perjuicios causados por el retardo, aceptada expresamente por el CLIENTE, y será exigible aún en caso de pago voluntario posterior a la mora. No obstante, el monto total combinado adeudado por concepto de intereses moratorios (2% mensual) más la penalidad del 25% aquí descrita no podrá exceder, en conjunto, el **3.5% mensual** calculado sobre el capital adeudado durante el período de mora, a fin de evitar una capitalización excesiva de la deuda.
+* **Excepción — Trabajos No Presupuestables:** El DESARROLLADOR podrá, a su exclusiva discreción, facturar por hora aquellos trabajos de diagnóstico, consultoría, mantenimiento correctivo urgente o cambios menores que, por su naturaleza impredecible, no puedan ser presupuestados como módulo cerrado. En tal caso, la tarifa horaria será notificada al CLIENTE previamente.
+
+### **12.2. Alcance Progresivo y No Exclusividad**
+
+* Las funcionalidades se desarrollan de forma **incremental** y se entregan por fases o módulos.  
+* Cualquier funcionalidad, módulo o componente **no acordado previamente** se considera trabajo adicional y se facturará como un nuevo módulo o, en su defecto, por hora según la cláusula 12.1.  
+* El DESARROLLADOR no iniciará el desarrollo de un módulo sin haber presentado el presupuesto correspondiente y haber obtenido aprobación por escrito del CLIENTE.  
+* El DESARROLLADOR se reserva el derecho de **rechazar nuevas solicitudes** de funcionalidades si estas exceden su capacidad técnica o disponibilidad de tiempo, previo aviso al CLIENTE.
+* **No Exclusividad:** El presente contrato no otorga al CLIENTE derechos de exclusividad sobre los servicios del DESARROLLADOR. El DESARROLLADOR se reserva el derecho expreso e irrevocable de prestar servicios de desarrollo, consultoría o asesoría a cualquier otro cliente, persona natural o jurídica, incluso si dicho cliente opera en el mismo rubro, mercado o industria que el CLIENTE, sin que ello constituya competencia desleal, conflicto de intereses ni violación de confidencialidad alguna.
+
+### **12.3. Criterios de Aceptación de Entregas**
+
+* Cada funcionalidad se considera **entregada** cuando el DESARROLLADOR notifica su disponibilidad en el entorno de pruebas habilitado en el servidor de desarrollo (accesible vía URL) o mediante una sesión de videollamada (Google Meet) donde se comparta pantalla para mostrar los avances; esta última modalidad es la preferida para agilizar la validación y optimizar costos.  
+* El entorno de pruebas es de uso exclusivo para validación y no para producción.
+* El CLIENTE tiene **5 días hábiles** para probarla y reportar incidencias.  
+* Si no responde en ese plazo, la funcionalidad se da por **aceptada**.  
+* Si el CLIENTE solicita cambios después de aceptada, se considera trabajo nuevo y se factura como módulo adicional o, en su defecto, por hora.  
+* Si la falta de respuesta del CLIENTE impide avanzar durante más de **15 días**, el DESARROLLADOR puede suspender el proyecto sin responsabilidad.  
+* Si el proyecto permanece suspendido por más de **30 días** por falta de respuesta o pago, el DESARROLLADOR se reserva el derecho de **ajustar las tarifas** y reprogramar su disponibilidad.
+
+### **12.4. Registro de Solicitudes**
+
+* Toda solicitud de funcionalidad, cambio o corrección deberá realizarse **por escrito** (email, mensaje de texto o herramienta acordada).  
+* Dicho registro constituye la **única prueba válida** del alcance acordado.  
+* Conversaciones verbales, de voz o videollamada **no generan obligación** hasta ser confirmadas por escrito.
+
+### **12.5. Entorno de Desarrollo vs. Entorno de Producción**
+
+**12.5.1. Entorno de Desarrollo y Pruebas:** Durante la fase de desarrollo, el SISTEMA será alojado exclusivamente en servidores propiedad y controlados por el DESARROLLADOR. Este entorno es de uso exclusivo para pruebas, validaciones y demostraciones de avance, y no debe ser utilizado para operaciones comerciales reales con usuarios finales.
+
+**12.5.2. Entorno de Producción:** Se define como "Entorno de Producción" aquel donde el SISTEMA opera con usuarios reales y transacciones económicas reales. La activación del Entorno de Producción constituye una fase separada del proyecto, sujeta a condiciones específicas:
+
+* **Autorización Previa:** El DESARROLLADOR no activará el Entorno de Producción hasta que el CLIENTE haya confirmado por escrito (según cláusula 12.4) que cuenta con todos los permisos, licencias y autorizaciones legales necesarias para operar el negocio en su jurisdicción, eximiendo expresamente al DESARROLLADOR de cualquier responsabilidad derivada de la operación.
+**Infraestructura de Producción:** Salvo acuerdo escrito en contrario, el cual requerirá pago anticipado mínimo de 3 meses de hosting, firma de un anexo de asunción de riesgos, y demostración de licencias vigentes, el Entorno de Producción deberá alojarse en infraestructura (servidor, VPS, hosting o nube) contratada a nombre del CLIENTE o de la empresa del CLIENTE. El DESARROLLADOR podrá ofrecer servicios de configuración, migración y administración de dicha infraestructura, los cuales serán facturados por separado según la tarifa vigente.
+* **Responsabilidad Operativa:** Una vez activado el Entorno de Producción, toda responsabilidad sobre la operación del negocio, incluyendo pero no limitado a aspectos legales, fiscales, laborales y de atención al usuario, recae exclusivamente sobre el CLIENTE.
+
+---
+
+## **13\. ACEPTACIÓN POR PAGO Y POLÍTICA DE REEMBOLSOS**
+
+La realización de un pago por parte del CLIENTE, correspondiente a una factura por un módulo, funcionalidad o entregable acordado, constituye la **aceptación expresa, definitiva e irrevocable** del trabajo realizado hasta esa fecha, salvo lo dispuesto en los párrafos siguientes. El CLIENTE renuncia a cualquier reclamo posterior sobre la funcionalidad, diseño o lógica del código entregado y pagado.
+
+**Naturaleza del Servicio:** El CLIENTE reconoce que el servicio de desarrollo de software es de naturaleza intelectual y personalizado. Una vez que el DESARROLLADOR ha ejecutado el trabajo, ha entregado código funcional o ha completado un módulo según lo acordado, dicho trabajo no puede ser "devuelto" ni "revertido". En consecuencia:
+
+* **Trabajo Ejecutado:** No se realizarán devoluciones de dinero por módulos o funcionalidades ya desarrollados, entregados y aceptados, independientemente de si el CLIENTE decide continuar, pausar o terminar el proyecto.
+* **Adelantos y Anticipos:** Los pagos anticipados realizados por el CLIENTE se consideran compensación por la reserva de capacidad operativa del DESARROLLADOR y no son reembolsables, salvo que el DESARROLLADOR incumpla injustificadamente su obligación de iniciar el desarrollo correspondiente.
+* **Módulos No Iniciados:** En caso de terminación anticipada por voluntad del CLIENTE, los módulos presupuestados pero no iniciados no generarán obligación de pago, y cualquier saldo a favor del CLIENTE se aplicará como crédito para futuros proyectos, a discreción de las partes.
+
+**Excepción por Vicios Ocultos:** La política de no reembolso no afecta el derecho del CLIENTE a reclamar por **vicios o defectos ocultos** del SISTEMA que no hayan sido ni pudieran haber sido detectados mediante pruebas razonables al momento de la aceptación, siempre que dichos vicios sean reportados dentro del plazo de prescripción establecido en la cláusula 8 del presente contrato. En caso de que se demuestre la existencia de un vicio oculto que impida el funcionamiento esencial del módulo entregado, el DESARROLLADOR lo corregirá sin costo adicional o, si la corrección no fuere técnica o económicamente viable, procederá a la devolución proporcional del monto pagado por dicho módulo.
 
 ---
 
@@ -351,17 +366,21 @@ Si el CLIENTE decide terminar el proyecto de forma anticipada, o si ambas partes
 
 ### **17.2. Rescisión por Incumplimiento del CLIENTE (Mora o Falta de Pago):**
 
-Si la rescisión se produce como consecuencia de un incumplimiento por parte del CLIENTE (especialmente, pero no limitado a, falta de pago), el DESARROLLADOR no estará obligado a entregar el código fuente, la base de datos ni ningún activo digital hasta que se liquide la deuda total más los intereses moratorios y gastos de cobranza establecidos en la cláusula 2.1. En este escenario, el CLIENTE perderá cualquier derecho sobre el sistema desarrollado mientras permanezca la mora, y el DESARROLLADOR podrá reclamar judicialmente el pago de las horas adeudadas, más los intereses y costos que correspondan. El pago de la deuda en mora (capital + intereses + gastos de cobranza, según cláusula 2.1) obligará a la entrega del código.
+Si la rescisión se produce como consecuencia de un incumplimiento por parte del CLIENTE (especialmente, pero no limitado a, falta de pago), el DESARROLLADOR no estará obligado a entregar el código fuente, la base de datos ni ningún activo digital hasta que se liquide la deuda total más los intereses moratorios y gastos de cobranza establecidos en la cláusula 12.1. En este escenario, el CLIENTE perderá cualquier derecho sobre el sistema desarrollado mientras permanezca la mora, y el DESARROLLADOR podrá reclamar judicialmente el pago de las horas adeudadas, más los intereses y costos que correspondan. El pago de la deuda en mora (capital + intereses + gastos de cobranza, según cláusula 12.1) obligará a la entrega del código.
 * Las cláusulas de confidencialidad, indemnidad y propiedad intelectual **sobreviven** a la terminación del contrato.
 
-**Finalización tácita:** Se considerará que el proyecto ha sido **entregado en su totalidad** cuando hayan transcurrido **60 días consecutivos** sin que el CLIENTE haya solicitado nuevas funcionalidades ni reportado incidencias, siempre que no existan facturas pendientes de pago y todas las funcionalidades acordadas hasta la fecha hayan sido entregadas y aceptadas. En ese caso, el DESARROLLADOR emitirá una factura final por los módulos o trabajos pendientes de facturar y el código se considerará entregado según lo establecido en la cláusula 7.1.3.
+### **17.3. Finalización Tácita**
 
-**Cesión por imposibilidad del DESARROLLADOR:** Si el DESARROLLADOR no puede continuar el proyecto por causa justificada (enfermedad, fuerza mayor u otros motivos personales), deberá notificarlo con **7 días** de anticipación y:
+Se considerará que el proyecto ha sido **entregado en su totalidad** cuando hayan transcurrido **60 días consecutivos** sin que el CLIENTE haya solicitado nuevas funcionalidades ni reportado incidencias, siempre que no existan facturas pendientes de pago y todas las funcionalidades acordadas hasta la fecha hayan sido entregadas y aceptadas. En ese caso, el DESARROLLADOR emitirá una factura final por los módulos o trabajos pendientes de facturar y el código se considerará entregado según lo establecido en la cláusula 6.1.3.
+
+### **17.4. Cesión por Imposibilidad del DESARROLLADOR**
+
+Si el DESARROLLADOR no puede continuar el proyecto por causa justificada (enfermedad, fuerza mayor u otros motivos personales), deberá notificarlo con **7 días** de anticipación y:
 
 * Entregará el código fuente en su estado actual, previo pago total de las horas trabajadas.  
 * Podrá **recomendar un desarrollador sustituto** al CLIENTE, sin que esto genere obligación de aceptación.  
 * El CLIENTE podrá contratar libremente a otro programador para continuar el proyecto.  
-* Las cláusulas de propiedad intelectual del código base (§7.2), prohibición de reventa (§15) y confidencialidad **siguen vigentes** y aplican también a cualquier nuevo programador que el CLIENTE contrate.
+* Las cláusulas de propiedad intelectual del código base (cláusula 6.2), prohibición de reventa (cláusula 15) y confidencialidad **siguen vigentes** y aplican también a cualquier nuevo programador que el CLIENTE contrate.
 
 ---
 
@@ -373,11 +392,15 @@ Si la rescisión se produce como consecuencia de un incumplimiento por parte del
 * **Notificaciones:** Las comunicaciones electrónicas (email, WhatsApp, Telegram o cualquier mensajería digital acordada) constituyen **constancia válida** de notificación oficial entre las partes.  
 * **Separabilidad y Reemplazo Automático:** Si una cláusula, estipulación o parte de ella fuese declarada nula, ilegal o inejecutable por autoridad competente, el resto del contrato mantendrá su plena vigencia y efectividad. Adicionalmente, la cláusula nula, ilegal o inejecutable se tendrá por modificada automáticamente en el grado mínimo necesario para hacerla válida y ejecutable. Si no fuere posible dicha modificación, la cláusula se tendrá por no puesta, sin que ello afecte la validez del resto del contrato.  
 * **Recursos Acumulativos:** Todos los derechos, recursos y facultades que este contrato confiere al DESARROLLADOR son acumulativos y no excluyen otros derechos o recursos previstos en la ley. El ejercicio parcial o la falta de ejercicio de un derecho no constituye renuncia al mismo, ni la renuncia a un incumplimiento específico constituye renuncia a incumplimientos posteriores.  
-* **Modificaciones:** Cualquier cambio a estos términos debe ser por escrito y firmado por ambas partes.  
+* **Modificaciones:** Cualquier cambio a estos términos para proyectos nuevos será efectivo inmediatamente después de su publicación por el DESARROLLADOR. Para proyectos en curso al momento de la actualización, los cambios entrarán en vigor **30 días después** de haber sido notificados al CLIENTE por los canales establecidos en la cláusula de Notificaciones. Si el CLIENTE no acepta los cambios, podrá dar por terminado el proyecto pagando la totalidad de los módulos entregados y las horas trabajadas hasta la fecha de notificación, sin penalidad adicional.  
 * **Cesión:** El CLIENTE no podrá ceder este acuerdo a terceros sin consentimiento escrito del DESARROLLADOR. El DESARROLLADOR no podrá ceder este acuerdo a un competidor directo del CLIENTE sin el consentimiento previo y por escrito de este. Para cualquier otro cesionario, el DESARROLLADOR podrá ceder este acuerdo libremente, siempre que notifique al CLIENTE con al menos 15 días de anticipación.  
-* **Supervivencia:** Las cláusulas 7 (Propiedad Intelectual), 8 (Responsabilidades del Cliente), 9 (Limitación de Responsabilidad), 12 (Declaración de Legalidad), 14 (Protección de Datos), 15 (Prohibición de Ingeniería Inversa), 16 (Subcontratación) y 18 (Disposiciones Generales) sobreviven a la terminación del presente contrato por cualquier causa.
+* **Supervivencia:** Las cláusulas 6 (Propiedad Intelectual), 7 (Responsabilidades del Cliente), 8 (Limitación de Responsabilidad), 11 (Declaración de Legalidad), 14 (Protección de Datos), 15 (Prohibición de Ingeniería Inversa), 16 (Subcontratación) y 18 (Disposiciones Generales) sobreviven a la terminación del presente contrato por cualquier causa.
 
 ---
+
+---
+
+> *"El propósito de este contrato es para construir una relación donde ambos ganemos: tú con un sistema funcional que impulsa tu negocio, yo con un cliente que valora el trabajo bien hecho y cumple con lo acordado. Los anexos operativos nos ayudarán a ejecutar con precisión; las cláusulas de protección nos darán tranquilidad si algo inesperado ocurre. Construyamos algo valioso, juntos."*
 
 ---
 
